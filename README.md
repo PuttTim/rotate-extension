@@ -1,4 +1,4 @@
-# It rotates
+# It rotates (and probably only on Firefox)
 
 Build the extension at your own risk 
 
